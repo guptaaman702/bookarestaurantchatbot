@@ -1,0 +1,100 @@
+hit it
+play the album ${album}
+play the album ${album} of artist ${artist}
+play genre ${genre}
+play songs of album ${album} of genre ${genre} and of artist ${artist}
+play me the song ${song} from artist ${artist}
+play song ${song}
+hello, can you play the song ${song} for album ${album} of artist ${artist}?
+hit the song ${song} of album ${album} in genre ${genre}
+play the song ${song}
+i want to hear song ${song} of artist ${artist} from album ${album}
+play the album ${album}
+play the song ${song} from album ${album} of genre ${genre}
+play the song ${song} from artist ${artist} of genre ${genre}
+play the songs of artist ${artist} and of genre ${genre}
+play songs of artist ${artist} from album ${album}
+play songs of genre ${genre} of artist ${artist}
+play songs of location ${location} of artist ${artist}
+what are the songs of artist ${artist} from album ${album} in genre ${genre}?
+just tell me songs of artist ${artist} from album ${album}
+just tell me the songs of artist ${artist} from album ${album}
+do you know the songs of album ${album} of artist ${artist}?
+do you know the songs of album ${album} of artist ${artist} in genre ${genre}?
+do you know the songs of album ${album} of artist ${artist} of style ${style}?
+hey, enlight me with the songs of artist ${artist} from album ${album} of genre ${genre}
+hey, enlight me with the songs of artist ${artist} from album ${album} of genre ${genre} in year ${year}
+hello, can you play the songs from album ${album} of artist ${artist} in year ${year}?
+hello, can you play the songs from album ${album} of artist ${artist} in genre ${genre}?
+hai, can you play the song ${song} fromm album ${album} of artist ${artist} now?
+howdy, can you play the song ${song} of album {album} in year {year}?
+hey, bring me list of songs of artist {artist} from album ${album} of year ${year}
+hey, bring me the song ${song} of album ${album} of genre ${genre}
+i want to find songs sunged by ${artist}
+list all songs sunged by ${artist} in year ${year} under genre ${genre}
+list all songs of ${album} of artist ${artist} under genre ${genre}
+i want to find songs of genre ${genre} of artist ${artist}
+i want to find songs of genre ${genre} and year ${year}
+i want to find songs of style ${style}
+i want to find songs from location ${location}
+i want to find songs of album ${album}
+i want to find songs of genre {genre} of artist ${artist}
+i want to find songs of artist ${artist} in year ${year}
+i want to find songs of artist ${Artist} with style ${style}
+i want to find songs of style ${style} in year ${year}
+i want to find artists who have songs with genre ${genre}
+i want to find artists who have songs with style ${style}
+i want to find artists who have songs in year ${year}
+i want to find artists who have songs in ${year} with ${style}
+who sung this song ${song} of type genre {genre}
+what was the release year of song ${song}?
+i want to play song ${song} of ${artist}
+i want to play song ${song}
+I want to see ${genre}.songs by ${artist}
+i want to see ${artist} songs
+i want to see all ${genre}
+i want to find avilable styles of ${artist}
+i want to find artist name of song ${song}
+i want to see all genres of ${artist}
+can you play song ${song}?
+can you play album ${album}?
+can you show me the albums from location ${location}?
+can you play song ${song} of album ${album}?
+can you play song ${song} of album ${album} of year ${year}?
+can you play song ${song} of album ${album} of year ${year} of genre ${genre}?
+can you play song ${song} of album ${album} of year ${year} of genre ${genre} and of style ${style}?
+can you play song ${song} of genre {genre}?
+can you play all songs of album ${album}?
+can you play all songs of genre ${genre}?
+can you play songs of artist ${artist} from year ${year}?
+can you play all songs in year ${year}?
+can you play all songs of artist ${artist} from year ${year}?
+can you list songs from album ${album}?
+who is the artist sung the album${album}?
+Which album this song ${song} belongs to?
+which year does this album ${album} released?
+In which location this song ${song} composed?
+In which genre and album does this song ${Song} comes under?
+Which genre this song ${song} belongs to?
+which genre this album ${album} belongs to?
+can you let me know which artist sung this song ${song}?
+navigate to album ${album} and show me the songs?
+list all the albums which were released in year {year}
+by the way, who is the artist of this album ${album}?
+hey, which album does this song ${song} part of?
+hey which genre this album ${album} belongs too?
+hey which year does this album  ${album} got released?
+hey can you tell me the song of artist ${artist} in album ${album} of year ${year}?
+hey what is that song of artist ${artist} in album ${album} of year ${year}?
+thrill me with the songs from  album ${album} of artist ${artist}
+play me with the songs from  album ${album} of artist ${artist} of year ${year}
+show all songs in year ${year}
+show all songs of artist ${Artist}
+play all songs of artist ${artist}
+play all songs of album ${album}
+play all  songs of genre ${genre}
+play all songs in year ${year}
+total how many songs are there by this artist ${artist}?
+total how many albums are there by this artist ${artist}?
+total how many genres we have?
+total how many albums are there in year ${year}?
